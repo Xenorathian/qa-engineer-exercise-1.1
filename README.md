@@ -1,8 +1,11 @@
 # QA Engineer Exercise 1
 
-**Prerequisite:** Running Docker environment
+**Prerequisite:**
+- Java 8
+- IDE (i.e. IntelliJ)
+- Running Docker environment
 
-**Task:**
+**Task:**\
 Use the given testing framework and the existing test class.
 The test is divided in the following steps.
 
@@ -12,7 +15,8 @@ The test is divided in the following steps.
 4. Click on search button
 5. "Statista GmbH" is shown in the top 5 results
 
-At the end create a pull request.
+After finishing the exercise create a pull request.
 
-**Note:**
-See also the example video in the recordings folder.
+**Note:**\
+It's sufficient to run the exercise in the IDE.\
+An example video is available in the recordings folder.

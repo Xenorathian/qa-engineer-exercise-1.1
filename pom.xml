@@ -12,7 +12,7 @@
 	<groupId>com.statista.exercises</groupId>
 	<artifactId>qa-engineer-exercise-1</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>qa-engineer-one</name>
+	<name>qa-engineer-1</name>
 	<description>QA Engineer exercise 1</description>
 
 	<properties>
