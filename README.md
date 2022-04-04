@@ -5,7 +5,7 @@
 - IDE (i.e. IntelliJ)
 - Running Docker environment
 
-**Task:**\
+**Task:** \
 Use the given testing frameworks (Selenium, JUnit, Testcontainers) and the existing test class.
 Try to cover all steps of the following test case:
 
@@ -17,6 +17,6 @@ Try to cover all steps of the following test case:
 
 After finishing the exercise create a pull request.
 
-**Note:**\
-It's sufficient to run the exercise in the IDE.\
+**Note:** \
+It's sufficient to run the exercise in the IDE. \
 An example video is available in the recordings folder.
