@@ -6,8 +6,8 @@
 - Running Docker environment
 
 **Task:**\
-Use the given testing framework and the existing test class.
-The test is divided in the following steps.
+Use the given testing frameworks (Selenium, JUnit, Testcontainers) and the existing test class.
+Try to cover all steps of the following test case:
 
 1. Visit https://www.statista.com/companydb/search
 2. Accept cookie consent
