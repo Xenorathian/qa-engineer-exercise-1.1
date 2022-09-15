@@ -9,7 +9,7 @@
 Use the given testing frameworks (Selenium, JUnit, Testcontainers) and the existing test class.
 Try to cover all steps of the following test case:
 
-1. Visit https://www.statista.com/companydb/search
+1. Visit https://www.statista.com/companies/search
 2. Accept cookie consent
 3. Search for "statista"
 4. Click on search button
